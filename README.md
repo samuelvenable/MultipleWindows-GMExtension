@@ -1,0 +1,1 @@
+# MultipleWindows GameMaker Extension
